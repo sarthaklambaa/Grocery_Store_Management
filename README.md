@@ -44,7 +44,7 @@ pip install Flask
 
 Make sure you have a MySQL server set up.
 Create a new database and user for the project.
-Update the database credentials in the config.py file.
+Update the database credentials in the sql_connection.py file.
 
 4. Run the application:
 
