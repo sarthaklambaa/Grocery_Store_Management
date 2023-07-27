@@ -58,9 +58,9 @@ The application should now be running on http://localhost:5000
 ## Folder Structure
 The repository is organized as follows:
 
-**backend/**: Contains all python and Flask related files.
-**env/**: Contains virtual environment files.
-**ui/**: Contains all the front end files such as HTML/CSS/Js and other related stuff.
+- **backend/**: Contains all python and Flask related files.
+- **env/**: Contains virtual environment files.
+- **ui/**: Contains all the front end files such as HTML/CSS/Js and other related stuff.
 
 ## Acknowledgements
 I would like to express my heartfelt gratitude to the entire IT team based in Pitampura, New Delhi, for their invaluable efforts in creating and managing this Grocery Management System. Though the team wishes to remain anonymous, they have helped me a lot in developing and executing this project as per their expectations. Their dedication and support have been crucial in shaping the system and making it a valuable asset for the nearby neighborhood. I am truly grateful for all their hard work and commitment. Thank you for your contributions!
